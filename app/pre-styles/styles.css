@@ -1,1 +1,5 @@
 @import "normalize.css";
+/*
+ *===Estilos para el header con efecto parallax===
+*/
+@import "modules/_parallax-header"; 

@@ -1,0 +1,10 @@
+.parallax-header {
+	position: relative;
+    width: 100%;
+    height: 65vmin;
+    background-image: url(../../assets/images/brooke-lark-158026-opt.jpg);
+    background-size: 100% 65vmin;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
